@@ -1,4 +1,5 @@
 print('Hello Radhe Krishna...')
 print('Good Morning...')
-pritn('i am learning devops...!')
+print('i am learning devops...!')
 print('updated from github')
+print('updated from vscode')

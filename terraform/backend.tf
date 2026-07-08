@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket         = "my-company-tf-state"
+    bucket         = "1014-ethans-dest-bkt-ind"
     key            = "website-prod/terraform.tfstate"
     region         = "ap-south-1"
     dynamodb_table = "terraform-locks"

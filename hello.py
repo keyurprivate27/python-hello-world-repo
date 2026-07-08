@@ -1,5 +1,0 @@
-print('Hello Radhe Krishna...')
-print('Good Morning...')
-print('i am learning devops...!')
-print('updated from github')
-print('updated from vscode')
